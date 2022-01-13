@@ -2,7 +2,7 @@
 
 # not working
 if something isnt working, make a new issue in the [issues tab](https://github.com/milu-zzz/wineditor/issues)  
-say what os/windows version your on if you make one
+say what windows version your on if you make one
 
 ## UPDATES
 
