@@ -6,7 +6,5 @@ say what os/windows version your on if you make one
 
 ## UPDATES
 
-## [1.0] - 1/12/21
- 
-### Added
+### [1.0] - 1/12/21
 - initial release
