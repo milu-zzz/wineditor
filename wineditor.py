@@ -299,7 +299,7 @@ if is_admin():
     # - reboot start-up -
     def rebootstartup():
         os.system("cls")
-        restart = input("Start-Up speed has been optified. Do you want to re-log your PC to apply\nthe new setting? (Y/N): ")
+        restart = input("Start-Up speed has been optimized. Do you want to re-log your PC to apply\nthe new setting? (Y/N): ")
         if restart == 'N':
             print("returning to main screen...")
             time.sleep(3)
